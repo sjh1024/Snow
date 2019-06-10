@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559589822912.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4026769074",
+    "id" : "D228D950",
+    "lastKnownWriteTime" : 1560174814,
+    "last_content_update" : 1560174814616,
+    "path" : "~/HubbardBrook/Snow/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "38,4",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
